@@ -1,0 +1,8 @@
+ifc\edu\br\mv9webhib\model\Cargo.class
+ifc\edu\br\mv9webhib\resources\JakartaEE9Resource.class
+ifc\edu\br\mv9webhib\model\Pessoa.class
+ifc\edu\br\mv9webhib\control\Geral.class
+ifc\edu\br\mv9webhib\JakartaRestConfiguration.class
+ifc\edu\br\mv9webhib\util\CriarTabelas.class
+ifc\edu\br\mv9webhib\model\TestarPessoa.class
+ifc\edu\br\mv9webhib\dao\DAO.class
